@@ -7,7 +7,7 @@ const storage = createStorage({
 });
 
 export const config = getDefaultConfig({
-  appName: "Bandit",
+  appName: "App",
   projectId: process.env.NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID || "",
   chains: [mainnet],
   ssr: true,

@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Bandit",
-  description: "Bandit Platform",
+  title: "App",
+  description: "App",
 };
 
 export default function RootLayout({
